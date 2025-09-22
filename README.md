@@ -1,2 +1,2 @@
 # Issue-Discord
-DiscordでIssueを管理するやつ
+DiscordでIssuesを管理するやつ
